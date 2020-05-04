@@ -3,7 +3,7 @@ def countdown(t):
     while t > 0:
         print(t)
         t -= 1
-        time.sleep(10)
+        time.sleep(1)
     print("DIE MATAFAKA! *puts mentos in coke*")
 
 print("How many seconds to count down? Enter an integer:")
